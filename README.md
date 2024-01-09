@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-This is **Nafis Tahmid**, from **Bangladesh University of Engineering and Technology**. I am a **Senior Year (Level-4, Term 1) Computer Science and Engineering Undergraduate Student**, **Researcher** and **Developer**. I am mostly interested in **Artificial Intelligence** research, specially solving problems using **Machine Learning** and **Deep Learning** techniques. Check out my repositories for project details!  
+This is **Nafis Tahmid**, from **Bangladesh University of Engineering and Technology**. I am a **Senior Year (Level-4, Term 1) Computer Science and Engineering Undergraduate Student**, **Researcher** and **Developer**. I am mostly interested in **Artificial Intelligence** research, specially solving problems using **Machine Learning** and **Deep Learning** techniques.
 
 <!-- - 🔭 Working on a couple of research projects covering **Machine Learning**, **Software Engineering**, and **Natural Language Processing**
 - 🌱 Currently revisiting **Pytorch**
