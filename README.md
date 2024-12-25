@@ -37,7 +37,7 @@ This is **Nafis Tahmid**, from **Bangladesh University of Engineering and Techno
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahmid-404-20&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahmid-404-20&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahmid-404-20&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahmid-404-20&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahmid-404-20&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahmid-404-20&theme=dracula&utcOffset=6)
 
 </div>
 
